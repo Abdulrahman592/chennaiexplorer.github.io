@@ -1,0 +1,102 @@
+body{
+	background-color: yellow;
+
+}
+
+
+#headd{
+	position: absolute;
+	position: relative;
+	bottom: 48px;
+	right: 4px;
+
+
+}
+#hd{
+	text-align: right;
+	word-spacing: 100px;
+	position: absolute;
+	position: relative;
+	bottom: 188px;
+	left: 1px;
+	font-size: 23px;
+}
+#hd1:hover{
+	background-color: white;
+	color: red;
+}
+#hd1{
+	color: black;
+	text-decoration: none;
+
+
+}
+.dd{
+	position: absolute;
+	position: relative;
+	left: 120px;
+	bottom: 530px;
+	
+}
+a:active{
+	color: red;
+}
+a{
+	text-decoration: none;
+	
+}
+.pg{
+	border-radius: 30px;
+	border:2px solid black;
+	width: 590px;
+	height: 310px;
+	margin-left: 10px;
+	margin-top: 5px;
+	text-align: center;
+	font-size: 35px;
+	
+	color: black;
+	font-style: Monospace;
+	background-image: url(ss1.jpg);
+	
+}
+#gg{
+	position: absolute;
+	position: relative;
+	top: 115px;
+	left: 110px;
+	opacity: 75%;
+	font-weight: 900;
+
+}
+#gg1{
+	position: absolute;
+	position: relative;
+	left: 120px;
+	top: 75px;
+	opacity: 75%;
+	font-weight: 800;
+
+}
+.rah{
+	font-size: 20px;
+	position: absolute;
+	position: relative;
+	left: 400px;
+	bottom: 610px;
+	background-color:yellow;
+	width: 6%; 
+	border: black 3px solid;
+	border-radius: 8px;
+	font-weight:400;
+	color: red;
+
+}
+#rah1:hover{
+	background-color: white;
+	color: black;
+}
+#rah1{
+	color:black;
+
+}
